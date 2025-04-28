@@ -17,3 +17,5 @@ conda env create -f environment.yml
 - 啟動環境並執行 `python plot_with_basemap.py` 就能生成 `minard_clone.png`
 
 ![minard_clone](minard_clone.png)
+
+分析：在過長的補給線、交戰以及寒冬低溫三個因素的夾擊下，讓拿破崙的大軍遭受重大傷亡
